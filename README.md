@@ -1,2 +1,2 @@
-# CS-GO
-写点什么吧
+# Cloud Store in GO
+随便写点什么都行啊 @hugefiver
